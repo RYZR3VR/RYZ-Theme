@@ -17,7 +17,7 @@
   --darkplus-bg2: #393939;
   --darkplus-sec: #0099FF;
   --darkplus-links: #0099FF;
-  --darkplus-home-icon: url('RYZ Theme Image.png');
+  --darkplus-home-icon: url(https://github.com/RYZR3VR/RYZ-Theme/blob/main/RYZ%20Theme%20Image.png);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 0%;
   --watermark-filter-saturate: 0%;
@@ -26,4 +26,5 @@
   --watermark-filter-contrast: 70%;
   --darkplus-emoji-picker-color: 210deg;
 }
+
 
